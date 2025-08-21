@@ -1,6 +1,6 @@
 # Curran E. Hunter
 
-<div align="center">
+![Curran headshot] <div align="center">
   <img src="IMG_AAA207BA-F032-4B64-8DE4-EE85CA174579.jpeg" alt="Curran headshot" width="250"/>
 </div>
 
