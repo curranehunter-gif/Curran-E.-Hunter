@@ -1,6 +1,8 @@
 # Curran E. Hunter
 
-![Curran headshot](github.jpg)
+<div align="center">
+  <img src="IMG_AAA207BA-F032-4B64-8DE4-EE85CA174579.jpeg" alt="Curran headshot" width="250"/>
+</div>
 
 Hi, I'm Curran (pronounced like word "current" without the *t*). I'm a creativity researcher and prospective PhD student drawn to the intersection of cognition, learning, the social sciences, and human–computer interaction.
 
