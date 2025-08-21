@@ -1,4 +1,4 @@
-# Curran-E.-Hunter
+# Curran E. Hunter
 
 ![Curran headshot](github.jpg)
 
